@@ -12,3 +12,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+## sample code animation
+
+![animate](https://github.com/maripiyoko/kmp-sample/assets/1080848/5b1c393b-7a4b-4d8f-b7bb-b787b2dcdd09)
