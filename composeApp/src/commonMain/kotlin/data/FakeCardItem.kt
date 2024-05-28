@@ -17,6 +17,10 @@ data class FakeCardItem(
             FakeCardItem(
                 title = "Duis aute irure",
                 summary = "dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+            ),
+            FakeCardItem(
+                title = "short",
+                summary = "短いテキスト"
             )
         )
     }
